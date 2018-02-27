@@ -88,4 +88,5 @@
             android:text="@string/Dolares2Colones" />
     </LinearLayout>
 
+
 </android.support.constraint.ConstraintLayout>
